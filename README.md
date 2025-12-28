@@ -5,7 +5,7 @@
 
 ## 🚀 À propos de moi | About Me
 
-- 🎓 Diplômé en informatique du Collège Dawson | Computer Science graduate from Dawson College
+- 🎓 Études en informatique au Collège Dawson | Studied Computer Science at Dawson College
 - 📚 Actuellement en UX/UI Design au Collège Vanier | Currently studying UX/UI Design at Vanier College
 - 💼 Je combine compétences techniques et réflexion design pour créer de meilleures interfaces | Combining technical skills with design thinking to build better interfaces
 - 🌍 Basé à Montréal, QC | Based in Montreal, QC
