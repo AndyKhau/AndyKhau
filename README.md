@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Andy Khau 👋
 
-<!--
-**AndyKhau/AndyKhau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Front-End Developer passionate about creating clean, user-friendly web experiences.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Study Computer Science in Dawson College
+- 📚 Currently studying UX/UI Design at Vanier College
+- 💼 Combining technical skills with design thinking to build better interfaces
+- 🌍 Based in Montreal, QC
+
+## 💻 Tech Stack
+
+**Frontend:** HTML, CSS, JavaScript, React, Bootstrap  
+**Backend:** PHP, Python, Django  
+**Other:** SQL, Linux
+
+## 🎨 What I'm Working On
+
+- Building responsive, accessible web interfaces
+- Exploring modern frontend frameworks and design systems
+- Creating projects that blend functionality with great UX
+
+## 📫 Let's Connect
+
+- LinkedIn: [andy-khau-124217388](https://www.linkedin.com/in/andy-khau-124217388)
+---
+
+*Open to collaborating on front-end projects and learning opportunities!*
