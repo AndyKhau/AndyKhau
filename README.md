@@ -22,9 +22,9 @@
 - Exploration de frameworks frontend modernes et systèmes de design | Exploring modern frontend frameworks and design systems
 - Création de projets alliant fonctionnalité et excellente UX | Creating projects that blend functionality with great UX
 
+<!--
 ## 📂 Projets | Projects
-
-Soon! / Bientot!
+-->
 
 ## 📫 Restons en contact | Let's Connect
 
