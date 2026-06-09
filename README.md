@@ -1,4 +1,4 @@
-# Salut, je suis Andy Khau 👋 | Hi, I'm Andy Khau 👋
+# Salut, je suis Andy  👋 | Hi, I'm Andy  👋
 
 **Développeur Front-End** passionné par la création d'expériences web épurées et conviviales.  
 **Front-End Developer** passionate about creating clean, user-friendly web experiences.
